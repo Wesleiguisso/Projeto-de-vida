@@ -103,6 +103,11 @@ body {
     }
 }
 .contador{
+    display: flex;
+    justify-content: center;
+}
+
+.contador{
     font-size: 20px;
     text-align: center;
 }
